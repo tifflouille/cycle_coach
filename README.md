@@ -14,7 +14,6 @@ A cycle-synced wellness recommendation engine. Log how you feel each morning, ge
 
 ```
 cycle-coach/
-├── engine/
 │   ├── rules.py          # All recommendation rules (add/edit here)
 │   ├── recommender.py    # Rule evaluation + conflict resolution
 │   └── storage.py        # JSON-based daily data storage
